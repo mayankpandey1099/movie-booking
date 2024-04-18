@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.booking-form {
+  margin-bottom: 20px;
+}
+
+.booked-tickets {
+  margin-top: 20px;
+}
+
+form {
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+}
+
+label {
+  margin-bottom: 10px;
+}
+
+input {
+  margin-left: 5px;
+}
+
+button {
+  margin-top: 10px;
+}
+/*# sourceMappingURL=index.15a9fb46.css.map */
